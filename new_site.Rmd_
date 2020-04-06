@@ -1,0 +1,2 @@
+# new_site command
+blogdown::new_site(theme = 'thingsym/hugo-theme-techdoc')
