@@ -1,0 +1,4 @@
+# https://bookdown.org/yihui/blogdown/github-pages.html
+# GitHub does not rebuild your website using Jekyll 
+# and just publish whatever files you push to the repository, 
+# you need to create a (hidden) file named .nojekyll in the repository
